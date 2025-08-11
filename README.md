@@ -21,8 +21,5 @@ The goal is to provide potential clients a quick overview of Anand Rathi’s ser
 - Contact/consultation form
 - Clear call-to-action buttons
 
-## How to Use
-
-1. Clone this repository:
    ```bash
-   git clone https://github.com/sundar-saran/www.anandrathi.com.git
+   https://github.com/sundar-saran/www.anandrathi.com
