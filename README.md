@@ -25,4 +25,4 @@ The goal is to provide potential clients a quick overview of Anand Rathi’s ser
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sundar-saran/anand-rathi-indore-landing.git
+   git clone https://github.com/sundar-saran/www.anandrathi.com.git
